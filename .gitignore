@@ -3,9 +3,17 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
+.venv*/
+.python-version
+
+# Python packaging/build artifacts
+build/
+dist/
+*.whl
 
 # Environment
 .env
+.env.*
 
 # Ingestion state
 .ingest_progress.json
@@ -19,3 +27,6 @@ data/
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
