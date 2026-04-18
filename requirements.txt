@@ -1,0 +1,12 @@
+# Install VectorAI DB client first:
+#   pip install ../actian_vectorai-0.1.0b2-py3-none-any.whl
+# Or from PyPI:
+#   pip install actian-vectorai
+
+pdfplumber>=0.10.0
+python-docx>=1.0.0
+python-pptx>=1.0.0
+sentence-transformers>=2.2.0
+streamlit>=1.35.0
+requests>=2.31.0       # for Ollama HTTP API
+tqdm>=4.66.0

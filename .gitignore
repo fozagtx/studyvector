@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Environment
+.env
+
+# Ingestion state
+.ingest_progress.json
+
+# Study materials (user-specific)
+materials/
+
+# Vector DB data
+data/
+
+# OS
+.DS_Store
+Thumbs.db
