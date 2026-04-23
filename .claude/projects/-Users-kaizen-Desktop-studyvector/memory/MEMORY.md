@@ -1,0 +1,1 @@
+- [No co-author](feedback_no_coauthor.md) — Never add Co-Authored-By to commits

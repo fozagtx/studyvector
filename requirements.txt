@@ -1,7 +1,5 @@
-# Install VectorAI DB client first:
-#   pip install ../actian_vectorai-0.1.0b2-py3-none-any.whl
-# Or from PyPI:
-#   pip install actian-vectorai
+# Actian VectorAI client (requires Python >= 3.10). Wheel lives in the beta repo:
+https://raw.githubusercontent.com/hackmamba-io/actian-vectorAI-db-beta/main/actian_vectorai-0.1.0b2-py3-none-any.whl
 
 pdfplumber>=0.10.0
 python-docx>=1.0.0

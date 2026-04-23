@@ -18,9 +18,6 @@ dist/
 # Ingestion state
 .ingest_progress.json
 
-# Study materials (user-specific)
-materials/
-
 # Vector DB data
 data/
 
